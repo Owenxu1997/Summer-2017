@@ -1,0 +1,9 @@
+﻿  源1.cpp
+e:\coding\summer 2017\summer 2017\summer 2017\源1.cpp(99): warning C4996: 'kbhit': The POSIX name for this item is deprecated. Instead, use the ISO C and C++ conformant name: _kbhit. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.15063.0\ucrt\conio.h(458): note: 参见“kbhit”的声明
+e:\coding\summer 2017\summer 2017\summer 2017\源1.cpp(101): warning C4996: 'getch': The POSIX name for this item is deprecated. Instead, use the ISO C and C++ conformant name: _getch. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.15063.0\ucrt\conio.h(452): note: 参见“getch”的声明
+e:\coding\summer 2017\summer 2017\summer 2017\源1.cpp(145): warning C4996: 'getch': The POSIX name for this item is deprecated. Instead, use the ISO C and C++ conformant name: _getch. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.15063.0\ucrt\conio.h(452): note: 参见“getch”的声明
+  Summer 2017.vcxproj -> E:\coding\Summer 2017\Summer 2017\Debug\Summer 2017.exe
+  Summer 2017.vcxproj -> E:\coding\Summer 2017\Summer 2017\Debug\Summer 2017.pdb (Partial PDB)
